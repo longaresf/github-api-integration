@@ -31,3 +31,20 @@ Sigue estos pasos para ejecutar el proyecto de manera local:
 1. **Clonar el repositorio:**
 ```bash
    git clone [https://github.com/longaresf/github-api-integration.git](https://github.com/longaresf/github-api-integration.git)
+```
+
+2. Ingresar al directorio:
+   Bash
+   cd github-api-integration
+
+3. Iniciar la aplicación:
+   Bash
+   npm start    # o python main.py o abrir el index.html en el navegador
+
+✒️ Autor
+
+    Francisco Longares - Desarrollador del Proyecto - longaresf
+
+
+
+
