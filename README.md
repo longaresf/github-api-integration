@@ -41,10 +41,8 @@ Sigue estos pasos para ejecutar el proyecto de manera local:
    Bash
    npm start    # o python main.py o abrir el index.html en el navegador
 
-✒️ Autor
+✒️ Créditos y Autoría
 
-    Francisco Longares - Desarrollador del Proyecto - longaresf
+    Francisco Longares - Desarrollador de la Aplicación - longaresf
 
-
-
-
+    Este proyecto fue desarrollado como parte de las evaluaciones prácticas avanzadas del programa de formación técnica en Desafío Latam.
